@@ -1,2 +1,2 @@
 # blog-imgs
-bolg images
+This is an online chart bed
